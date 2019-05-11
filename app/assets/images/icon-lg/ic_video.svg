@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+    <defs>
+        <style>
+            .cls-1,.cls-4{fill:none}.cls-2{fill:#fff}.cls-2,.cls-4{stroke:#3f5b98;stroke-miterlimit:10;stroke-width:2px}.cls-3{fill:#3f5b98}.cls-5{stroke:none}
+        </style>
+    </defs>
+    <g id="ic_video" transform="translate(-32 -467)">
+        <path id="Rectangle_223" d="M0 0h60v60H0z" class="cls-1" data-name="Rectangle 223" transform="translate(32 467)"/>
+        <g id="path" transform="translate(34.279 456.387)">
+            <g id="Rectangle_204" class="cls-2" data-name="Rectangle 204">
+                <path d="M2 0h22a20 20 0 0 1 20 20v38a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2z" class="cls-5" transform="translate(5.721 10.613)"/>
+                <path d="M2 1h22a19 19 0 0 1 19 19v38a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1z" class="cls-1" transform="translate(5.721 10.613)"/>
+            </g>
+            <path id="Path_105" d="M21.125 35.023V51.2l16.192-8.366z" class="cls-3" data-name="Path 105"/>
+            <path id="Path_106" d="M34.378 10.923V26.7h15" class="cls-4" data-name="Path 106" transform="translate(-1 1)"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:#fff}.cls-2,.cls-3{stroke:#3f5b98;stroke-miterlimit:10;stroke-width:2px}.cls-3,.cls-6{fill:none}.cls-4{fill:#3f5b98}.cls-5{stroke:none}
+        </style>
+    </defs>
+    <g id="ic_pic" transform="translate(-32 -113)">
+        <path id="block" d="M0 0h60v60H0z" class="cls-1" transform="translate(32 113)"/>
+        <g id="Group_301" data-name="Group 301" transform="translate(-66.984 24.677)">
+            <g id="Rectangle_186" class="cls-2" data-name="Rectangle 186">
+                <path d="M2 0h22a20 20 0 0 1 20 20v38a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2z" class="cls-5" transform="translate(106.984 88.323)"/>
+                <path d="M2 1h22a19 19 0 0 1 19 19v38a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1z" class="cls-6" transform="translate(106.984 88.323)"/>
+            </g>
+            <path id="Path_98" d="M135.641 88.633v15.78h15" class="cls-3" data-name="Path 98" transform="translate(-1 1)"/>
+            <path id="Path_99" d="M113.91 137.291l13.374-22.214 11.246 19.9-4.924-11.654 3.283-4.79 9.118 18.76z" class="cls-4" data-name="Path 99"/>
+            <circle id="Ellipse_12" cx="4" cy="4" r="4" class="cls-4" data-name="Ellipse 12" transform="translate(115.505 107.323)"/>
+        </g>
+    </g>
+</svg>
